@@ -1,0 +1,23 @@
+{
+  "name": "seo-entregable-gabriel-gallegos-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compilar:sass": "sass --watch scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GGABRIEL13/clase-seo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GGABRIEL13/clase-seo/issues"
+  },
+  "homepage": "https://github.com/GGABRIEL13/clase-seo#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
