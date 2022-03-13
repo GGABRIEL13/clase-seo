@@ -11119,5 +11119,9 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.nav-form-control {
+  background-color: #6ef539;
+  border-color: #f8f9fa;
+}
 
 /*# sourceMappingURL=custom.css.map */
