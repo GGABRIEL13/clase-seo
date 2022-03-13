@@ -1,0 +1,44 @@
+
+
+header {
+    background: linear-gradient(to right, #8de0f5, #1d89ee);
+    background-color: rgb(34, 179, 236);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px;    
+
+    nav {
+
+        ul {
+            /*list-style: none;*/
+            display: inline-block;
+            font-size: 0
+
+           li {
+                color: aliceblue;
+                padding: 15px;
+                z-index: 1
+
+                a{
+                    display: flex;
+                    flex-direction: row;
+                    align-items: center;
+                    justify-content: space-between;
+
+                    hover {
+                        display: inline-block;
+                        color: greenyellow;
+                        text-decoration: none;
+                    }
+                }
+
+            }
+
+
+    }
+    
+
+  
+    
