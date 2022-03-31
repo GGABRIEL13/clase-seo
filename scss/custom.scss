@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2? family=Roboto:ital,wght@0,500;1,300;1,900&display=swap');
+
+$font-family-base:'Roboto', sans-serif;
+$primary: rgb(110, 245, 57);
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+
+.nav-form-control{
+    background-color: $primary;
+    border-color: $light;
+}
